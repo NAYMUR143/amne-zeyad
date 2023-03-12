@@ -10,7 +10,7 @@ const CatalogContentDiv = styled.div`
 
   h4 {
     position: relative;
-    font-weight: 500;
+    font-weight: 400;
     font-size: 0.75rem;
     cursor: pointer;
     text-transform: uppercase;
